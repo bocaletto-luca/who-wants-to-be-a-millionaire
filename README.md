@@ -14,7 +14,7 @@
 
 **Who Wants To Be A Millionaire** is an interactive web quiz game that replicates the iconic TV show format. Answer multiple-choice questions to win increasingly higher prizes, and use lifelines like 50/50 and Switch to improve your odds. Built with HTML5, CSS3 (with Bootstrap), JavaScript, PHP, and JSON, the game supports touchscreen, keyboard, mouse, and gamepad inputs—and even saves high scores!
 
-[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen)](https://bocaletto-luca/github.io/who-whants-to-be-a-milionaire/){:target="_blank"}
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen)](https://bocaletto-luca/github.io/who-whants-to-be-a-milionaire/)
 
 ## Table of Contents
 
