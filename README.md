@@ -16,6 +16,13 @@
 
 [![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/who-wants-to-be-a-millionaire/)
 
+---
+
+## Screenshot
+
+![Screenshot 2025-07-04 at 16-10-26 Who Wants To Be A Millionaire Bocaletto Luca WebGame](https://github.com/user-attachments/assets/3c260565-33c7-43dd-8030-2341f58c4011)
+
+![Screenshot 2025-07-04 at 16-11-02 Who Wants to be a Milionaire](https://github.com/user-attachments/assets/848d5b56-5d7d-4d4b-9e2e-952fa99ad220)
 
 ## Table of Contents
 
