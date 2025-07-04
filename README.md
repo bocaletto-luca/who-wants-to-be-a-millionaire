@@ -92,3 +92,5 @@ This project is licensed under the GPLv3 License. See the LICENSE file for detai
 Enjoy playing **Who Wants To Be A Millionaire** and feel free to customize it further!
 
 For now this game in only italian language.
+
+---
